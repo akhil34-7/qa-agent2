@@ -1,4 +1,4 @@
-# qa-agent2
+# hackathon
 # 🚀 Hackathon Project
 
 ## 📌 Description
